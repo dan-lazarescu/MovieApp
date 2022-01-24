@@ -1,0 +1,15 @@
+{
+  "namespace": "TestProducer",
+  "type": "record",
+  "name": "someName",
+  "fields": [
+    {
+      "name": "myKey",
+      "type": "string"
+    },
+    {
+      "name": "someName",
+      "type": "string"
+    }
+  ]
+}
